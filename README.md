@@ -1,8 +1,8 @@
 <h1 align="center">Hi everyone 👋, I'm Jorge Luis Pérez Enriquez</h1>
 
-- I'm from Cuba :cuba:.
+- I'm from Cuba.
 - I'm a bachelor, graduated 👨‍🎓 from the IPVCE Vladimir Ilich Lenin 💙.
-- I'm a Informatic Engineer 💻, graduated from the Technological University of Havana José Antonio Echevarría 🏫, Cuba :cuba:.
+- I'm a Informatic Engineer 💻, graduated from the Technological University of Havana José Antonio Echevarría 🏫, Cuba.
 
 * <p>
   <a href="mailto:jorgeluis1128@yahoo.com" target="blank"><img align="center" src="images/yahoo.jpg" alt="jorgeluis1128@yahoo.com" height="30" width="30" title="Yahoo" /></a>
