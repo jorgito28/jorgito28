@@ -17,41 +17,41 @@
   </p>
 
 
-<!-- 
+
 <h2 align="center">Skills</h2>
 
 
 
 <div align="center">
-  <img src="img/c.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="img/cplusplus.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp;
-  <img src="img/csharp.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
-  <img src="img/python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="img/haskell.svg" title="Haskell" alt="Haskell" width="60" height="60"/>&nbsp;
+  <img src="images/c.jpg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <!-- <img src="img/cplusplus.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp; -->
+  <img src="images/csharp.png" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="images/python.jpg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <!-- <img src="img/haskell.svg" title="Haskell" alt="Haskell" width="60" height="60"/>&nbsp;
   <img src="img/r.svg" title="R" alt="R" width="60" height="60"/>&nbsp;
   <img src="img/latex.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
-  <img src="img/markdown.svg" title="MarkDown" alt="MarkDown" width="60" height="60"/>&nbsp;
-  <img src="img/html5.svg" title="HTML 5" alt="HTML 5" width="60" height="60"/>&nbsp;
-  <img src="img/css3.svg" title="CSS 3" alt="CSS 3" width="60" height="60"/>&nbsp;
-  <img src="img/javascript.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="img/sass.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
-  <img src="img/fastapi.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
-  <img src="img/postgresql.svg" title="Postgres" alt="Postgres" width="60" height="60"/>&nbsp;
-  <img src="img/vuejs.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
-  <img src="img/react.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="img/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
-  <img src="img/django.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="img/markdown.svg" title="MarkDown" alt="MarkDown" width="60" height="60"/>&nbsp; -->
+  <img src="images/html5.svg" title="HTML 5" alt="HTML 5" width="60" height="60"/>&nbsp;
+  <img src="images/css.svg" title="CSS 3" alt="CSS 3" width="60" height="60"/>&nbsp;
+  <img src="images/js.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <!-- <img src="img/sass.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
+  <img src="img/fastapi.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp; -->
+  <img src="images/postgres.jpg" title="Postgres" alt="Postgres" width="60" height="60"/>&nbsp;
+  <img src="images/vuejs.png" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
+  <img src="images/react.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="images/bootstrap4.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
+  <!-- <img src="img/django.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="img/dotnetcore.svg" title="DotNET Core" alt="DotNET Core" width="60" height="60"/>&nbsp;
-  <img src="img/opencv.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
-  <img src="img/qt.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
-  <img src="img/vim.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
-  <img src="img/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60"/>&nbsp;
-  <img src="img/visualstudio.svg" title="Visual Studio" alt="Visual Studio" width="60" height="60"/>&nbsp;
-  <img src="img/git.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="img/trello.svg" title="Trello" alt="Trello" width="60" height="60"/>&nbsp;
-  <img src="img/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
-  <img src="img/chrome.svg" title="Chrome" alt="Chrome" width="60" height="60"/>&nbsp;
-</div> -->
+  <img src="img/opencv.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp; -->
+  <img src="images/qt.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
+  <img src="images/vim.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
+  <img src="images/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60"/>&nbsp;
+  <img src="images/visualstudio.svg" title="Visual Studio" alt="Visual Studio" width="60" height="60"/>&nbsp;
+  <img src="images/git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <!-- <img src="img/trello.svg" title="Trello" alt="Trello" width="60" height="60"/>&nbsp;
+  <img src="img/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp; -->
+  <img src="images/chrome.svg" title="Chrome" alt="Chrome" width="60" height="60"/>&nbsp;
+</div>
 
 
 
